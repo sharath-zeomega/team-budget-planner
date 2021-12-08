@@ -1,0 +1,21 @@
+body {
+    color:black;
+  
+    font: 1em "Times new Roman";
+    text-align: center;
+    margin: 200px ;
+    padding-bottom: 100px;
+    background-image: url('hi.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+  }
+
+.addDet, .checkDet{
+  background-color: rgb(109, 80, 146);
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  padding: 15px;
+}

@@ -1,0 +1,8 @@
+Sharath K T,
+Software Engineer Trainee,
+Zeomega Infotech Private Limited,
+Basavanagudi,Bangalore 560004.
+
+
+  I develped the Budget Planner App after undergoing training in the simplilearn 
+using the basic HTML tag and css designs for the html code
